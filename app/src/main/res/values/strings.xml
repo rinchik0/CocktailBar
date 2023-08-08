@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name_tv">Cocktail Bar</string>
+    <string name="my_cocktails_tv">My cocktails</string>
+    <string name="add_first_tv">Add your first cocktail here</string>
+    <string name="arrow_tv">↓</string>
+    <string name="add_btn">+</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_of_cocktail">Name of cocktail</string>
+    <string name="add_name_tv">Add name</string>
+    <string name="description">Description</string>
+    <string name="add_desc_tv">Add description</string>
+    <string name="ingri_tv">Ingredients</string>
+    <string name="none_tv">None</string>
+    <string name="add_ing_btn">Add</string>
+    <string name="save">Save</string>
+</resources>
