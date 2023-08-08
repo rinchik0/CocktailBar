@@ -33,7 +33,7 @@ class ListFragment : Fragment() {
             buffer = it
         })
         if (!buffer.equals("")) {dynamicTextView.text = buffer}
-        else {dynamicTextView.text = "Хуй"}
+        else {dynamicTextView.text = "Пусто"}
 
             //if (buffer.getAll().size != 0) {
             //    for (i in buffer.getAll()){
